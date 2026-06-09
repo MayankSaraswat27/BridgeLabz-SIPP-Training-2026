@@ -9,7 +9,6 @@ public class FeeDiscount_User_Input {
 
         double discount = (fee * discountPercent) / 100;
         double finalFee = fee - discount;
-
         System.out.println("The discount amount is INR " + discount +
                 " and final discounted fee is INR " + finalFee);
     }
