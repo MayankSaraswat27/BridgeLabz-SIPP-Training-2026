@@ -35,7 +35,6 @@ public class KingdomTax {
 
             totalTaxCollected += tax;
         }
-
         System.out.println("Total Tax Collected = " + totalTaxCollected);
 
         sc.close();
