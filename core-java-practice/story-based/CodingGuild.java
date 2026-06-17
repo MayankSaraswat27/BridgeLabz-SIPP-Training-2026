@@ -10,7 +10,6 @@ public class CodingGuild {
         double bonus = salary * 0.12;
 
         int annualBonus = (int) bonus;
-
         System.out.println("================================");
         System.out.println("      WELCOME TO CODING GUILD");
         System.out.println("================================");
